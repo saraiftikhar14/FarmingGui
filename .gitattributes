@@ -1,8 +1,10 @@
 *.csharp linguist-detectable=false  
 *.java linguist-detectable=true    
-*.js linguist-detectable=true  
-*.html linguist-detectable=true  
-*.css linguist-detectable=true
+*.js linguist-detectable=false  
+*.html linguist-detectable=false  
+*.css linguist-detectable=false
 *.xml linguist-detectable=true     
 *.sql linguist-detectable=true     
 *.rtf linguist-detectable=false
+*.jsx linguist-detectable=false  
+*.tsx linguist-detectable=false 
